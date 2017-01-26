@@ -11,8 +11,8 @@ public class ImportantTweet extends Tweet {
         super(message);
     }
 
-    public ImportantTweet(Date date, String message) {
-        super(date, message);
+    public ImportantTweet(String message, Date date) {
+        super(message, date);
     }
 
     @Override
