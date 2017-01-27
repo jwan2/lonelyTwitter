@@ -46,8 +46,6 @@ public abstract class  Tweet implements Tweetable{
 
     public abstract Boolean isImportant();
 
-<<<<<<< HEAD
-
 
     ArrayList<Mood> arraylist = new ArrayList<Mood>();
 
@@ -59,13 +57,4 @@ public abstract class  Tweet implements Tweetable{
         return date.toString() + " | " + message;
     }
 
-
-
-=======
-    @Override
-    public String toString(){
-        return  date.toString() + "|" + message;
-    }
-
->>>>>>> refs/remotes/origin/Lab3-exercise
 }
