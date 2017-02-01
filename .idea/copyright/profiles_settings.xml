@@ -1,3 +1,8 @@
 <component name="CopyrightManager">
-  <settings default="" />
+  <settings default="Jia Wan">
+    <module2copyright>
+      <element module="All" copyright="Jia Wan" />
+      <element module="Project Files" copyright="Jia Wan" />
+    </module2copyright>
+  </settings>
 </component>
